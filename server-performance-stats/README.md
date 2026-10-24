@@ -28,8 +28,8 @@ A lightweight, zero-dependency Bash script for Linux servers that provides real-
 
 1. **Clone or download the repository**:
    ```bash
-   git clone https://github.com/your-username/server-performance-stats.git
-   cd server-performance-stats
+   git clone https://github.com/fahmykamal/DevOps-Projects.git
+   cd DevOps-Projects/server-performance-stats
    ```
 
 2. **Make the script executable**:
